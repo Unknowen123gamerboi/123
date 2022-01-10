@@ -1,6 +1,6 @@
-userids = {
-[2221151191] = true,
-[USERIDHERE] = true,
-[USERIDHERE] = true
+keys = {
+[asdasd123124565464] = true,
+[15423154254252AKFK] = true,
+[AFFSOAJFMOSAFJMNOI] = true
 }
-return userids
+return keys
