@@ -1,6 +1,6 @@
-keys = {
-[asdasd123124565464] = true,
-[15423154254252AKFK] = true,
-[AFFSOAJFMOSAFJMNOI] = true
-}
-return keys
+Title = "Search  ANimeWare";
+	Text = "For dc to get new";
+	Duration = 15;
+	})
+
+	wait(3) return end
